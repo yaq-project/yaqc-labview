@@ -6,7 +6,7 @@ with LabVIEW.
 
 ### Installation
 
-To install, either copy and run the installer.exe or `git clone` the repository to a folder of
+To install, either copy the volume of and run the installer.exe or `git clone` the repository to a folder of
 your choice.  The installer will automatically install the VIs + python script components of yaq
 into the default LabVIEW `instr.lib` folder.
 
