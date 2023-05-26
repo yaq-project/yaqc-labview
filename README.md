@@ -88,3 +88,7 @@ dimensionality of an input and pass an error if an inappropriate dimensionality 
 VIs to determine if this adaptation method can be utilized in your specific project or if you need VIs for each dimension.
 (For example, malleable VIs cannot be integrated into packed libraries.)   
 
+
+## Author
+
+@kameyer226
