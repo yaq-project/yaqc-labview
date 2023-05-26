@@ -46,7 +46,7 @@ hierarchically arranged by traits, some of which the object may have inherited.
 Let's look at a test VI utilizing the yaq project, called test_yaqc_measure.  The two images refer to the LabVIEW front panel
 and wire diagram of test_yaqc_measure.vi.
 
-![test_yaqc_measure front panel](/test_yaqc_measure_front_panel.png)
+![test_yaqc_measure front panel](/test_yaqc_measure_frontpanel.png)
 
 ![test_yaqc_measure wire diagram](/test_yaqc_measure_wire_diagram.png)
 
