@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={D7ED96B1-8EB6-4ECC-8783-DDC7CF27C3D7}
+DistPackageGUID={6B17A424-791A-4072-BD04-9CA07C7D1EF6}
+DistributionVersion=1.0.7
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=yaq_labview_install.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
