@@ -15,7 +15,7 @@ into the default LabVIEW `instr.lib` folder.
 
 You will likely need to create a specific conda environment with the following Python packages installed:
 
-* `pip install numpy==1.21.6' or less
+* `pip install numpy==1.21.6` or less
 * `conda install yaqc`
 * `conda install yaqd-core`
 * (optional) `conda install yaqd-control`
