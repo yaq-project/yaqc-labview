@@ -1,4 +1,4 @@
-# yaq-labview 
+# yaqc-labview 
 
 This repository contains VIs, test VIs, and python scripts for interfacing the yaq library 
 with LabVIEW.
